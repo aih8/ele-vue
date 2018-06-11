@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "author": "古月先生 <907138916@qq.com>",
   "description": "still working on",
-  "license": null,
+  "license": "MIT",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
